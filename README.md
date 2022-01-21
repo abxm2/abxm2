@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-[![abxm2's github stats](https://github-readme-stats.vercel.app/api?username=abxm2&show_icons=1)](https://github.com/anuraghazra/github-readme-stats)
+![abxm2's github stats](https://github-readme-stats.vercel.app/api?username=abxm2&show_icons=1&count_private=true)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abxm2&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abxm2&layout=compact&count_private=true)
 
 
 ![](https://visitor-badge.glitch.me/badge?page_id=abxm2.visitor_badge)
